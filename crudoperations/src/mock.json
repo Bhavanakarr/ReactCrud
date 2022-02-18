@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "employeeID": "12345",
+        "fullName": "Jenny ",
+        "designation": "developer",
+        "email": "jenny@email.com"
+    },
+    {
+        "id": 2,
+        "employeeID": "56788",
+        "fullName": "Ana ",
+        "designation": "senior developer",
+        "email": "ana@email.com"
+    },
+    {
+        "id": 3,
+        "employeeID": "23456",
+        "fullName": "mark",
+        "designation": "team lead",
+        "email": "mark@email.com"
+    },
+    {
+        "id": 4,
+        "employeeID": "98765",
+        "fullName": "laura",
+        "designation": "technical lead",
+        "email": "laura@email.com"
+    },
+    {
+        "id": 5,
+        "employeeID": "87645",
+        "fullName": "richard",
+        "designation": "manager",
+        "email": "richard@email.com"
+    },
+    {
+        "id": 6,
+        "employeeID": "99999",
+        "fullName": "james",
+        "designation": "manager",
+        "email": "james@email.com"
+    }
+    ]
